@@ -253,10 +253,11 @@ máquina.
   12. Lanzar la aplicacion
       
       <img width="1021" height="1334" alt="Captura de pantalla 2026-04-04 161836" src="https://github.com/user-attachments/assets/a1fbf6e1-2f5e-4ea9-965e-f2d95d7063fe" />
+
+
+ 
+  13. aplicación funcionando
       
- 
-13.   aplicación funcionando
- 
       <img width="967" height="743" alt="Captura de pantalla 2026-04-04 165052" src="https://github.com/user-attachments/assets/d94e8421-fc77-4fcc-b570-3b2e2e2470a8" />
 
 
