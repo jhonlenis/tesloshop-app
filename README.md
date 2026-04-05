@@ -194,34 +194,75 @@ máquina.
 * Imagenes
 
   1. Dockerfile del backend
+     
     <img width="791" height="1293" alt="Captura de pantalla 2026-04-04 154825" src="https://github.com/user-attachments/assets/4748fd0e-b68d-4c54-aa25-5844967839a2" />
-  2. Dockerfile del Frontend
+
+
+  3. Dockerfile del Frontend
      <img width="922" height="935" alt="Captura de pantalla 2026-04-04 155017" src="https://github.com/user-attachments/assets/99da643c-8394-479f-b9d8-c666b321c0b1" />
-   3. Creacion del Nginx.config del Frontend
+
+
+   4. Creacion del Nginx.config del Frontend
       <img width="930" height="1355" alt="Captura de pantalla 2026-04-04 155203" src="https://github.com/user-attachments/assets/bdb7771e-f0dd-47d4-b3f1-0431863bfd6f" />
-   4. Configuracion del .env.example y modificiacion del .env
+
+
+   5. Configuracion del .env.example y modificiacion del .env
       <img width="1071" height="1132" alt="Captura de pantalla 2026-04-04 155800" src="https://github.com/user-attachments/assets/9db69e51-d88d-44cd-8315-ba7268a46193" />
+      
       <img width="1080" height="818" alt="Captura de pantalla 2026-04-04 155825" src="https://github.com/user-attachments/assets/baa99e4c-7fb3-4e92-8097-b8f85882f187" />
-   5. Confguracion del start.sh
+
+
+   6. Confguracion del start.sh
+      
       <img width="961" height="821" alt="Captura de pantalla 2026-04-04 160031" src="https://github.com/user-attachments/assets/85adbb22-4c14-4c50-a7ad-cc1b5cf7faff" />
-   6. Configuracion del Stop.sh
+
+
+   8. Configuracion del Stop.sh
+      
       <img width="883" height="287" alt="Captura de pantalla 2026-04-04 160052" src="https://github.com/user-attachments/assets/642cef28-dc6d-4528-b70c-5df82006ca24" />
-   7. Version del docker y version del docker compose
+
+
+   9. Version del docker y version del docker compose
+      
       <img width="460" height="161" alt="Captura de pantalla 2026-04-04 160134" src="https://github.com/user-attachments/assets/5411f7a5-ef4b-4da6-bfaa-35e9f59e9809" />
-   8. Permisos a los Scripts
+
+
+   10. Permisos a los Scripts
+       
       <img width="431" height="57" alt="Captura de pantalla 2026-04-04 160342" src="https://github.com/user-attachments/assets/6f456b29-6e18-4a4e-a9c6-217b05fe1cf8" />
-   9. Docker-compose.yml terminado
+
+
+   12. Docker-compose.yml terminado
+       
        <img width="811" height="1249" alt="Captura de pantalla 2026-04-04 160757" src="https://github.com/user-attachments/assets/be6b0614-6587-4451-bef5-3580066184c9" />
-  10. Lanzar la aplicacion
+
+
+  14. Lanzar la aplicacion
+      
       <img width="1021" height="1334" alt="Captura de pantalla 2026-04-04 161836" src="https://github.com/user-attachments/assets/a1fbf6e1-2f5e-4ea9-965e-f2d95d7063fe" />
+ 
       <img width="967" height="743" alt="Captura de pantalla 2026-04-04 165052" src="https://github.com/user-attachments/assets/d94e8421-fc77-4fcc-b570-3b2e2e2470a8" />
-  11. Verificacion de que servicios estan corriendo
+
+
+  16. Verificacion de que servicios estan corriendo
+      
       <img width="1077" height="234" alt="Captura de pantalla 2026-04-04 161947" src="https://github.com/user-attachments/assets/e5badf42-a607-4dbc-ad9c-ce05d52e7cd5" />
-  12. Poblar la base de datos con el Seed
+
+
+  18. Poblar la base de datos con el Seed
+      
       <img width="487" height="78" alt="Captura de pantalla 2026-04-04 162038" src="https://github.com/user-attachments/assets/a0abb9ba-f5e2-41d0-beca-322d44d7b430" />
-  13. Vista de la app desde la API
+
+
+  20. Vista de la app desde la API
+      
       <img width="2529" height="1461" alt="Captura de pantalla 2026-04-04 164023" src="https://github.com/user-attachments/assets/6335a0e7-620d-427c-8f71-e265e5099756" />
+      
       <img width="2537" height="1453" alt="Captura de pantalla 2026-04-04 164414" src="https://github.com/user-attachments/assets/3a31e762-8ce1-4b17-a526-66d9967b3c6d" />
-  14. Vista de la app desde el Frontend
+
+
+  22. Vista de la app desde el Frontend
+      
       <img width="2517" height="1464" alt="Captura de pantalla 2026-04-04 171947" src="https://github.com/user-attachments/assets/d1018f82-f2dd-417d-8f69-00d08878bd1d" />
+      
       <img width="2542" height="1454" alt="Captura de pantalla 2026-04-04 172002" src="https://github.com/user-attachments/assets/60e9b4e8-2006-4774-a491-47884870773b" />
