@@ -199,20 +199,22 @@ máquina.
 
 
   3. Dockerfile del Frontend
+     
      <img width="922" height="935" alt="Captura de pantalla 2026-04-04 155017" src="https://github.com/user-attachments/assets/99da643c-8394-479f-b9d8-c666b321c0b1" />
 
 
-   4. Creacion del Nginx.config del Frontend
+   5. Creacion del Nginx.config del Frontend
+      
       <img width="930" height="1355" alt="Captura de pantalla 2026-04-04 155203" src="https://github.com/user-attachments/assets/bdb7771e-f0dd-47d4-b3f1-0431863bfd6f" />
 
 
-   5. Configuracion del .env.example y modificiacion del .env
+   6. Configuracion del .env.example y modificiacion del .env
       <img width="1071" height="1132" alt="Captura de pantalla 2026-04-04 155800" src="https://github.com/user-attachments/assets/9db69e51-d88d-44cd-8315-ba7268a46193" />
       
       <img width="1080" height="818" alt="Captura de pantalla 2026-04-04 155825" src="https://github.com/user-attachments/assets/baa99e4c-7fb3-4e92-8097-b8f85882f187" />
 
 
-   6. Confguracion del start.sh
+   7. Confguracion del start.sh
       
       <img width="961" height="821" alt="Captura de pantalla 2026-04-04 160031" src="https://github.com/user-attachments/assets/85adbb22-4c14-4c50-a7ad-cc1b5cf7faff" />
 
@@ -229,39 +231,39 @@ máquina.
 
    10. Permisos a los Scripts
        
-      <img width="431" height="57" alt="Captura de pantalla 2026-04-04 160342" src="https://github.com/user-attachments/assets/6f456b29-6e18-4a4e-a9c6-217b05fe1cf8" />
+       <img width="515" height="121" alt="Captura de pantalla 2026-04-04 205935" src="https://github.com/user-attachments/assets/b4516c83-241b-40f0-be27-50573172ee43" />
 
 
-   12. Docker-compose.yml terminado
+   11. Docker-compose.yml terminado
        
        <img width="811" height="1249" alt="Captura de pantalla 2026-04-04 160757" src="https://github.com/user-attachments/assets/be6b0614-6587-4451-bef5-3580066184c9" />
 
 
-  14. Lanzar la aplicacion
+  12. Lanzar la aplicacion
       
       <img width="1021" height="1334" alt="Captura de pantalla 2026-04-04 161836" src="https://github.com/user-attachments/assets/a1fbf6e1-2f5e-4ea9-965e-f2d95d7063fe" />
  
       <img width="967" height="743" alt="Captura de pantalla 2026-04-04 165052" src="https://github.com/user-attachments/assets/d94e8421-fc77-4fcc-b570-3b2e2e2470a8" />
 
 
-  16. Verificacion de que servicios estan corriendo
+  13. Verificacion de que servicios estan corriendo
       
       <img width="1077" height="234" alt="Captura de pantalla 2026-04-04 161947" src="https://github.com/user-attachments/assets/e5badf42-a607-4dbc-ad9c-ce05d52e7cd5" />
 
 
-  18. Poblar la base de datos con el Seed
+  14. Poblar la base de datos con el Seed
       
       <img width="487" height="78" alt="Captura de pantalla 2026-04-04 162038" src="https://github.com/user-attachments/assets/a0abb9ba-f5e2-41d0-beca-322d44d7b430" />
 
 
-  20. Vista de la app desde la API
+  15. Vista de la app desde la API
       
       <img width="2529" height="1461" alt="Captura de pantalla 2026-04-04 164023" src="https://github.com/user-attachments/assets/6335a0e7-620d-427c-8f71-e265e5099756" />
       
       <img width="2537" height="1453" alt="Captura de pantalla 2026-04-04 164414" src="https://github.com/user-attachments/assets/3a31e762-8ce1-4b17-a526-66d9967b3c6d" />
 
 
-  22. Vista de la app desde el Frontend
+  16. Vista de la app desde el Frontend
       
       <img width="2517" height="1464" alt="Captura de pantalla 2026-04-04 171947" src="https://github.com/user-attachments/assets/d1018f82-f2dd-417d-8f69-00d08878bd1d" />
       
