@@ -209,6 +209,7 @@ máquina.
 
 
    4. Configuracion del .env.example y modificiacion del .env
+      
       <img width="1071" height="1132" alt="Captura de pantalla 2026-04-04 155800" src="https://github.com/user-attachments/assets/9db69e51-d88d-44cd-8315-ba7268a46193" />
       
       <img width="1080" height="818" alt="Captura de pantalla 2026-04-04 155825" src="https://github.com/user-attachments/assets/baa99e4c-7fb3-4e92-8097-b8f85882f187" />
@@ -259,24 +260,24 @@ máquina.
       <img width="967" height="743" alt="Captura de pantalla 2026-04-04 165052" src="https://github.com/user-attachments/assets/d94e8421-fc77-4fcc-b570-3b2e2e2470a8" />
 
 
-  13. Verificacion de que servicios estan corriendo
+  14. Verificacion de que servicios estan corriendo
       
       <img width="1077" height="234" alt="Captura de pantalla 2026-04-04 161947" src="https://github.com/user-attachments/assets/e5badf42-a607-4dbc-ad9c-ce05d52e7cd5" />
 
 
-  14. Poblar la base de datos con el Seed
+  15. Poblar la base de datos con el Seed
       
       <img width="487" height="78" alt="Captura de pantalla 2026-04-04 162038" src="https://github.com/user-attachments/assets/a0abb9ba-f5e2-41d0-beca-322d44d7b430" />
 
 
-  15. Vista de la app desde la API
+  16. Vista de la app desde la API
       
       <img width="2529" height="1461" alt="Captura de pantalla 2026-04-04 164023" src="https://github.com/user-attachments/assets/6335a0e7-620d-427c-8f71-e265e5099756" />
       
       <img width="2537" height="1453" alt="Captura de pantalla 2026-04-04 164414" src="https://github.com/user-attachments/assets/3a31e762-8ce1-4b17-a526-66d9967b3c6d" />
 
 
-  16. Vista de la app desde el Frontend
+  17. Vista de la app desde el Frontend
       
       <img width="2517" height="1464" alt="Captura de pantalla 2026-04-04 171947" src="https://github.com/user-attachments/assets/d1018f82-f2dd-417d-8f69-00d08878bd1d" />
       
