@@ -217,53 +217,63 @@ máquina.
    5. Confguracion del start.sh
       
       <img width="961" height="821" alt="Captura de pantalla 2026-04-04 160031" src="https://github.com/user-attachments/assets/85adbb22-4c14-4c50-a7ad-cc1b5cf7faff" />
+   
+
+   6. Construyendo las imágenes
+      
+      <img width="715" height="597" alt="Captura de pantalla 2026-04-04 211113" src="https://github.com/user-attachments/assets/6b6d5d1c-12f6-4dc1-9aec-5965eea9947f" />
 
 
-   6. Configuracion del Stop.sh
+  7. imágenes creadas
+
+   <img width="755" height="207" alt="Captura de pantalla 2026-04-04 211445" src="https://github.com/user-attachments/assets/b03f8f60-4d24-428d-8fe5-280393ec1425" />
+
+
+   8. Configuracion del Stop.sh
       
       <img width="883" height="287" alt="Captura de pantalla 2026-04-04 160052" src="https://github.com/user-attachments/assets/642cef28-dc6d-4528-b70c-5df82006ca24" />
 
 
-   7. Version del docker y version del docker compose
+   9. Version del docker y version del docker compose
       
       <img width="460" height="161" alt="Captura de pantalla 2026-04-04 160134" src="https://github.com/user-attachments/assets/5411f7a5-ef4b-4da6-bfaa-35e9f59e9809" />
 
 
-   8. Permisos a los Scripts
+   10. Permisos a los Scripts
        
        <img width="515" height="121" alt="Captura de pantalla 2026-04-04 205935" src="https://github.com/user-attachments/assets/b4516c83-241b-40f0-be27-50573172ee43" />
 
 
-   9. Docker-compose.yml terminado
+   11. Docker-compose.yml terminado
        
        <img width="811" height="1249" alt="Captura de pantalla 2026-04-04 160757" src="https://github.com/user-attachments/assets/be6b0614-6587-4451-bef5-3580066184c9" />
 
 
-  10. Lanzar la aplicacion
+  12. Lanzar la aplicacion
       
       <img width="1021" height="1334" alt="Captura de pantalla 2026-04-04 161836" src="https://github.com/user-attachments/assets/a1fbf6e1-2f5e-4ea9-965e-f2d95d7063fe" />
  
       <img width="967" height="743" alt="Captura de pantalla 2026-04-04 165052" src="https://github.com/user-attachments/assets/d94e8421-fc77-4fcc-b570-3b2e2e2470a8" />
 
 
-  11. Verificacion de que servicios estan corriendo
+  13. Verificacion de que servicios estan corriendo
       
       <img width="1077" height="234" alt="Captura de pantalla 2026-04-04 161947" src="https://github.com/user-attachments/assets/e5badf42-a607-4dbc-ad9c-ce05d52e7cd5" />
 
 
-  12. Poblar la base de datos con el Seed
+  14. Poblar la base de datos con el Seed
       
       <img width="487" height="78" alt="Captura de pantalla 2026-04-04 162038" src="https://github.com/user-attachments/assets/a0abb9ba-f5e2-41d0-beca-322d44d7b430" />
 
 
-  13. Vista de la app desde la API
+  15. Vista de la app desde la API
       
       <img width="2529" height="1461" alt="Captura de pantalla 2026-04-04 164023" src="https://github.com/user-attachments/assets/6335a0e7-620d-427c-8f71-e265e5099756" />
       
       <img width="2537" height="1453" alt="Captura de pantalla 2026-04-04 164414" src="https://github.com/user-attachments/assets/3a31e762-8ce1-4b17-a526-66d9967b3c6d" />
 
 
-  14. Vista de la app desde el Frontend
+  16. Vista de la app desde el Frontend
       
       <img width="2517" height="1464" alt="Captura de pantalla 2026-04-04 171947" src="https://github.com/user-attachments/assets/d1018f82-f2dd-417d-8f69-00d08878bd1d" />
       
